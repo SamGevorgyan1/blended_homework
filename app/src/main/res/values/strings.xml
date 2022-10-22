@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Homework</string>
+    <string name="DatePicker">DatePicker</string>
+    <string name="TimePicker">TimePicker</string>
+    <string name="Exit">Exit</string>
+    <string name="open">Open</string>
+    <string name="copy">copy</string>
+</resources>

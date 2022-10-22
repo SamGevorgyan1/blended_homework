@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/date_picker_id"
+    android:title="@string/DatePicker" />
+
+    <item android:id="@+id/time_picker_id"
+        android:title="@string/TimePicker"/>
+
+    <item android:id="@+id/exit_id"
+        android:title="@string/Exit"/>
+
+</menu>
